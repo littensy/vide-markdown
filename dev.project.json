@@ -1,0 +1,15 @@
+{
+	"name": "vide-markdown-dev",
+	"tree": {
+		"$className": "DataModel",
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"vide-markdown": {
+					"$path": "."
+				}
+			}
+		}
+	}
+}

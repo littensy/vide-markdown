@@ -1,0 +1,7 @@
+# Generated files
+*.sourcemap.json
+sourcemap.json
+
+# Dependencies
+/Packages
+.DS_Store

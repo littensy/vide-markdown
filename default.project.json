@@ -1,0 +1,9 @@
+{
+	"name": "vide-markdown",
+	"tree": {
+		"$path": "src",
+		"packages": {
+			"$path": "Packages"
+		}
+	}
+}
